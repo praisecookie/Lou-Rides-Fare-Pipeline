@@ -1,0 +1,5 @@
+yellow_tripdata_*.parquet
+venv/
+*.db
+__pycache__/
+raw_data/
